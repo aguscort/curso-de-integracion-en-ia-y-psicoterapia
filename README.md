@@ -179,3 +179,173 @@
 - 25% Implementación de componentes de reconocimiento y generación emocional
 - 15% Examen teórico-práctico
 - 10% Participación en discusiones y presentaciones en clase
+
+
+## Segundo Semestre (30 créditos)
+
+### 6. Sistemas de Diagnóstico y Predicción en Salud Mental (6 créditos)
+
+**Justificación:** Esta asignatura es esencial para desarrollar habilidades en la creación de sistemas de IA capaces de asistir en el diagnóstico y predicción de trastornos mentales, mejorando la precisión y eficiencia de los procesos clínicos.
+
+**Temario:**
+1. Modelos de aprendizaje profundo para detección temprana
+   1.1. Implementación de redes neuronales para clasificación de trastornos
+   1.2. Desarrollo de modelos de detección de anomalías en datos de salud mental
+   1.3. Creación de sistemas de alerta temprana basados en patrones de comportamiento
+2. Análisis multimodal para evaluación psicológica
+   2.1. Integración de datos de texto, voz e imagen para evaluación
+   2.2. Implementación de modelos de fusión de datos para diagnóstico
+   2.3. Desarrollo de interfaces para visualización de resultados multimodales
+3. Procesamiento de lenguaje natural para análisis de contenido clínico
+   3.1. Implementación de sistemas de extracción de información de notas clínicas
+   3.2. Desarrollo de modelos de resumen automático de historias clínicas
+   3.3. Creación de herramientas de análisis semántico para entrevistas psicológicas
+4. Modelos predictivos de trayectorias clínicas
+   4.1. Implementación de modelos de series temporales para pronóstico
+   4.2. Desarrollo de sistemas de predicción de recaídas
+   4.3. Creación de herramientas de visualización de trayectorias de tratamiento
+
+**Conceptos clave:** Aprendizaje profundo en diagnóstico, análisis multimodal, NLP clínico, modelos predictivos en salud mental, visualización de datos clínicos.
+
+**Bibliografía:**
+- Shatte, A. B., Hutchinson, D. M., & Teague, S. J. (2019). Machine learning in mental health: a scoping review of methods and applications. Psychological medicine, 49(9), 1426-1448.
+- Torous, J., & Keshavan, M. (2018). A new window into psychosis: The rise digital phenotyping, smartphone assessment, and mobile monitoring. Schizophrenia research, 197, 67-68.
+- Chekroud, A. M., et al. (2016). Cross-trial prediction of treatment outcome in depression: a machine learning approach. The Lancet Psychiatry, 3(3), 243-250.
+
+**Modo de calificación:**
+- 40% Proyecto final: Desarrollo de un sistema de diagnóstico o predicción
+- 30% Implementación de modelos y análisis durante el curso
+- 20% Examen teórico-práctico
+- 10% Presentaciones y discusiones en clase
+
+### 7. Personalización y Adaptación de Intervenciones Terapéuticas mediante IA (6 créditos)
+
+**Justificación:** Esta asignatura es fundamental para desarrollar sistemas de IA capaces de adaptar y personalizar intervenciones terapéuticas, mejorando la eficacia y la adherencia al tratamiento.
+
+**Temario:**
+1. Sistemas de recomendación para técnicas terapéuticas
+   1.1. Implementación de algoritmos de filtrado colaborativo para terapia
+   1.2. Desarrollo de sistemas basados en contenido para recomendación de intervenciones
+   1.3. Creación de modelos híbridos de recomendación terapéutica
+2. Aprendizaje por refuerzo para adaptación de tratamientos
+   2.1. Implementación de algoritmos de Q-learning para optimización de tratamientos
+   2.2. Desarrollo de sistemas de bandidos multi-brazo para selección de intervenciones
+   2.3. Creación de modelos de aprendizaje por refuerzo inverso para imitar estrategias de expertos
+3. Modelos de usuario para personalización
+   3.1. Implementación de técnicas de clustering para identificación de perfiles de pacientes
+   3.2. Desarrollo de modelos de redes bayesianas para representación de conocimiento del usuario
+   3.3. Creación de sistemas de actualización dinámica de modelos de usuario
+4. Adaptación en tiempo real de intervenciones
+   4.1. Implementación de sistemas de monitoreo continuo y ajuste de intervenciones
+   4.2. Desarrollo de algoritmos de detección de cambios para adaptar estrategias
+   4.3. Creación de interfaces adaptativas para aplicaciones terapéuticas
+
+**Conceptos clave:** Sistemas de recomendación terapéutica, aprendizaje por refuerzo en psicoterapia, modelado de usuario, adaptación dinámica de intervenciones.
+
+**Bibliografía:**
+- Paredes, P., et al. (2014). PopTherapy: Coping with stress through pop-culture. In Proceedings of the 8th International Conference on Pervasive Computing Technologies for Healthcare (pp. 109-117).
+- Nahum-Shani, I., et al. (2018). Just-in-Time Adaptive Interventions (JITAIs) in mobile health: key components and design principles for ongoing health behavior support. Annals of Behavioral Medicine, 52(6), 446-462.
+- Schulte, P. J., et al. (2014). Q-learning with inverse reinforcement learning for real-time treatment regimes. Artificial intelligence in medicine, 64(2), 79-88.
+
+**Modo de calificación:**
+- 50% Proyecto final: Desarrollo de un sistema de intervención personalizada
+- 25% Implementación de componentes de personalización y adaptación
+- 15% Examen teórico-práctico
+- 10% Participación en discusiones y presentaciones en clase
+
+### 8. Integración de Datos Multimodales en IA para Psicoterapia (6 créditos)
+
+**Justificación:** Esta asignatura es crucial para desarrollar habilidades en la integración y análisis de diversas fuentes de datos en psicoterapia, permitiendo una comprensión más completa y precisa del estado del paciente.
+
+**Temario:**
+1. Técnicas de fusión de datos para información multimodal
+   1.1. Implementación de métodos de fusión temprana y tardía
+   1.2. Desarrollo de arquitecturas de redes neuronales para fusión multimodal
+   1.3. Creación de sistemas de ponderación adaptativa de fuentes de datos
+2. Análisis conjunto de datos textuales, de voz y fisiológicos
+   2.1. Implementación de pipelines de procesamiento para datos multimodales
+   2.2. Desarrollo de modelos de alineación temporal para diferentes fuentes de datos
+   2.3. Creación de técnicas de extracción de características multimodales
+3. Modelos de aprendizaje profundo para procesamiento de señales multimodales
+   3.1. Implementación de arquitecturas de redes convolucionales y recurrentes para datos multimodales
+   3.2. Desarrollo de modelos de atención para fusión de diferentes modalidades
+   3.3. Creación de sistemas de auto-supervisión para aprendizaje de representaciones multimodales
+4. Interpretación de patrones multimodales en contextos clínicos
+   4.1. Implementación de técnicas de visualización para datos multimodales
+   4.2. Desarrollo de métodos de explicabilidad para modelos multimodales
+   4.3. Creación de interfaces para interpretación clínica de resultados multimodales
+
+**Conceptos clave:** Fusión de datos multimodales, procesamiento de señales multimodales, aprendizaje profundo multimodal, interpretación de patrones multimodales.
+
+**Bibliografía:**
+- Baltrušaitis, T., Ahuja, C., & Morency, L. P. (2019). Multimodal machine learning: A survey and taxonomy. IEEE transactions on pattern analysis and machine intelligence, 41(2), 423-443.
+- Poria, S., et al. (2017). A review of affective computing: From unimodal analysis to multimodal fusion. Information Fusion, 37, 98-125.
+- Lahat, D., Adali, T., & Jutten, C. (2015). Multimodal data fusion: an overview of methods, challenges, and prospects. Proceedings of the IEEE, 103(9), 1449-1477.
+
+**Modo de calificación:**
+- 45% Proyecto final: Desarrollo de un sistema de análisis multimodal para psicoterapia
+- 30% Implementación de técnicas de fusión y análisis multimodal durante el curso
+- 15% Examen teórico-práctico
+- 10% Presentaciones y discusiones en clase
+
+### 9. Simulación y Modelado de Procesos Terapéuticos (6 créditos)
+
+**Justificación:** Esta asignatura es esencial para desarrollar habilidades en la creación de modelos computacionales que simulen procesos terapéuticos, permitiendo un mejor entendimiento y optimización de las intervenciones.
+
+**Temario:**
+1. Modelos computacionales de cambio terapéutico
+   1.1. Implementación de modelos de ecuaciones estructurales para procesos terapéuticos
+   1.2. Desarrollo de modelos de sistemas dinámicos para cambio psicológico
+   1.3. Creación de simulaciones basadas en agentes para interacciones terapeuta-paciente
+2. Simulación de dinámicas terapeuta-paciente
+   2.1. Implementación de modelos de teoría de juegos para interacciones terapéuticas
+   2.2. Desarrollo de simulaciones de procesos de toma de decisiones en terapia
+   2.3. Creación de entornos virtuales para entrenamiento de terapeutas
+3. Modelado de trayectorias de recuperación y recaída
+   3.1. Implementación de modelos de Markov ocultos para estados de salud mental
+   3.2. Desarrollo de simulaciones de Monte Carlo para pronóstico de resultados terapéuticos
+   3.3. Creación de modelos de redes complejas para la progresión de síntomas
+4. Técnicas de agentes autónomos para escenarios terapéuticos
+   4.1. Implementación de arquitecturas de agentes cognitivos para simulación de pacientes
+   4.2. Desarrollo de sistemas multi-agente para modelar entornos terapéuticos
+   4.3. Creación de técnicas de aprendizaje por refuerzo para optimizar estrategias terapéuticas
+
+**Conceptos clave:** Modelos de cambio terapéutico, simulación basada en agentes, modelado de trayectorias clínicas, sistemas dinámicos en psicoterapia.
+
+**Bibliografía:**
+- Borsboom, D., & Cramer, A. O. (2013). Network analysis: an integrative approach to the structure of psychopathology. Annual review of clinical psychology, 9, 91-121.
+- Epstein, J. M. (2006). Generative social science: Studies in agent-based computational modeling. Princeton University Press.
+- Trull, T. J., & Ebner-Priemer, U. W. (2020). Ambulatory assessment in psychopathology research: A review of recommended reporting guidelines and current practices. Journal of abnormal psychology, 129(1), 56.
+
+**Modo de calificación:**
+- 45% Proyecto final: Desarrollo de un modelo de simulación de proceso terapéutico
+- 30% Implementación de modelos y simulaciones durante el curso
+- 15% Examen teórico-práctico
+- 10% Presentaciones y discusiones en clase
+
+### 10. Trabajo Fin de Máster (12 créditos)
+
+**Justificación:** El Trabajo Fin de Máster permite a los estudiantes integrar y aplicar los conocimientos y habilidades adquiridos durante el programa en un proyecto de investigación o desarrollo original en el campo de la IA aplicada a la psicoterapia.
+
+**Desarrollo:**
+1. Identificación y definición de un problema relevante en la intersección de IA y psicoterapia
+2. Revisión exhaustiva de la literatura y el estado del arte
+3. Diseño e implementación de una solución basada en IA
+4. Evaluación experimental o simulación de la solución propuesta
+5. Análisis de resultados y discusión de implicaciones
+6. Redacción de la memoria del proyecto
+7. Presentación y defensa del trabajo
+
+**Conceptos clave:** Investigación original, desarrollo de sistemas de IA para psicoterapia, evaluación de eficacia, ética en IA y salud mental.
+
+**Bibliografía:**
+La bibliografía será específica para cada proyecto y será determinada en conjunto por el estudiante y su supervisor.
+
+**Modo de calificación:**
+- 50% Calidad técnica y originalidad del proyecto
+- 25% Memoria escrita
+- 15% Presentación y defensa oral
+- 10% Proceso de desarrollo y seguimiento
+
+
+
